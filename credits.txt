@@ -16,6 +16,8 @@ Thanks to:
 -Seb for the _SetTextRendering() and SetTextOutline() functions [mailto:captainseb@wanadoo.fr]
 -MorphSoft for the colornames list idea
 -W3SCHOOLS for HTML-related reference info [http://www.w3schools.com/]
+asdfasdf
+sdfasdfsad
 __________________
 Special Thanks to:
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
