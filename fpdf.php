@@ -19,7 +19,7 @@ define('FPDF_VERSION','1.52');
 class FPDF
 {
 //Private properties
-var $DisplayPreferences123=''; //EDITEI - added
+var $DisplayPreferences456=''; //EDITEI - added
 var $outlines=array(); //EDITEI - added
 var $OutlineRoot; //EDITEI - added
 var $flowingBlockAttr; //EDITEI - added
